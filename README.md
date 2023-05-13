@@ -1,8 +1,5 @@
-### Hi there 👋
-
-**ozgeturkdag/ozgeturkdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm @ozgeturkdag, 
+Hi world 👋
+I'm @ozgeturkdag, I'm a React Front-End Developer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
