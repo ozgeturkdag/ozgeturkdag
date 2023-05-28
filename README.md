@@ -8,3 +8,8 @@ I'm @ozgeturkdag, I'm a React Front-End Developer.
 💃 I like dancing, 🚴🏻‍♀️ cycling, ✈️ traveling and 🎹 playing piano...
 🍀 I am interested in learning new cultures.
 💬 You can ask me about everything.
+
+
+💻 Tech Stack:
+
+CSS3 HTML5 JavaScript React
